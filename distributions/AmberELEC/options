@@ -14,7 +14,7 @@
   DISTRONAME="AmberELEC"
 
 # short project description
-  DESCRIPTION="An Open Source firmware."
+  DESCRIPTION="Jenny's version of AmberELEC"
 
 # Distribution Home URL
   HOME_URL="https://github.com/AmberELEC/AmberELEC"
@@ -26,7 +26,7 @@
   BUG_REPORT_URL="https://github.com/AmberELEC/AmberELEC/issues"
 
 # Root password to integrate in the target system
-  ROOT_PASSWORD="amberelec"
+  ROOT_PASSWORD="collector"
 
 # Install glibc locales to the build (yes / no)
   GLIBC_LOCALES="yes"
